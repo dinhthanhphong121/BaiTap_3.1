@@ -1,0 +1,11 @@
+D:\asp_net\thuchanh\quanlynhansu\quanlynhansu.Models\bin\Debug\net5.0\quanlynhansu.Models.deps.json
+D:\asp_net\thuchanh\quanlynhansu\quanlynhansu.Models\bin\Debug\net5.0\quanlynhansu.Models.dll
+D:\asp_net\thuchanh\quanlynhansu\quanlynhansu.Models\bin\Debug\net5.0\ref\quanlynhansu.Models.dll
+D:\asp_net\thuchanh\quanlynhansu\quanlynhansu.Models\bin\Debug\net5.0\quanlynhansu.Models.pdb
+D:\asp_net\thuchanh\quanlynhansu\quanlynhansu.Models\obj\Debug\net5.0\quanlynhansu.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp_net\thuchanh\quanlynhansu\quanlynhansu.Models\obj\Debug\net5.0\quanlynhansu.Models.AssemblyInfoInputs.cache
+D:\asp_net\thuchanh\quanlynhansu\quanlynhansu.Models\obj\Debug\net5.0\quanlynhansu.Models.AssemblyInfo.cs
+D:\asp_net\thuchanh\quanlynhansu\quanlynhansu.Models\obj\Debug\net5.0\quanlynhansu.Models.csproj.CoreCompileInputs.cache
+D:\asp_net\thuchanh\quanlynhansu\quanlynhansu.Models\obj\Debug\net5.0\quanlynhansu.Models.dll
+D:\asp_net\thuchanh\quanlynhansu\quanlynhansu.Models\obj\Debug\net5.0\ref\quanlynhansu.Models.dll
+D:\asp_net\thuchanh\quanlynhansu\quanlynhansu.Models\obj\Debug\net5.0\quanlynhansu.Models.pdb

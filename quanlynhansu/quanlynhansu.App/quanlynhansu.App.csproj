@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Pages\FetchData.razor.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\quanlynhansu.API\quanlynhansu.API.csproj" />
+    <ProjectReference Include="..\quanlynhansu.Models\quanlynhansu.Models.csproj" />
+  </ItemGroup>
+
+</Project>
